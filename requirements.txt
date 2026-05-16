@@ -1,0 +1,20 @@
+# Web framework for the dashboard
+streamlit>=1.35.0
+
+# Data handling — unpinned to avoid Python version conflicts
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Machine learning (Phase 4)
+scikit-learn>=1.5.0
+joblib>=1.4.0
+
+# Weather API calls
+requests>=2.32.0
+
+# Charts and visualisation
+plotly>=5.22.0
+matplotlib>=3.9.0
+
+# Environment variable management (keeps API keys out of code)
+python-dotenv>=1.0.0

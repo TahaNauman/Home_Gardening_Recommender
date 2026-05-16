@@ -1,0 +1,13 @@
+month,month_name,avg_min_temp_c,avg_max_temp_c,avg_temp_c,avg_humidity_pct,avg_rainfall_mm,season,season_urdu,gardening_summary,best_crops
+1,January,13,25,19,68,5,Cool-Dry,سرد موسم,Best planting month of the year. Cool and dry — ideal for most vegetables.,"Tomato,Spinach,Coriander,Peas,Radish,Carrot,Fenugreek,Capsicum,Cauliflower,Cabbage,Garlic"
+2,February,15,27,21,65,8,Cool-Dry,سرد موسم,Still excellent. Slightly warming but most winter crops still productive.,"Tomato,Spinach,Coriander,Radish,Peas,Carrot,Fenugreek,Capsicum,Turnip,Spring Onion"
+3,March,20,32,26,65,8,Spring,بہار,Warming up fast. Last chance for cool crops. Start heat-tolerant ones.,"Eggplant,Green Chilli,Zucchini,Cucumber,Coriander (last),Spring Onion"
+4,April,25,36,30,68,4,Spring,بہار,Getting hot. Transition month. Only heat-tolerant crops now.,"Okra,Bitter Gourd,Bottle Gourd,Eggplant,Green Chilli,Cucumber,Zucchini,Ginger,Turmeric"
+5,May,28,38,33,68,2,Pre-Monsoon,گرم موسم,Very hot and dry. Challenging for most crops. Focus on heat-hardy only.,"Okra,Bitter Gourd,Bottle Gourd,Green Chilli,Pumpkin"
+6,June,29,38,34,72,2,Pre-Monsoon,گرم موسم,Hottest dry period. Very few crops suitable. Protect existing plants from sun.,"Okra,Bitter Gourd,Green Chilli"
+7,July,28,36,32,80,60,Monsoon,مانسون,Monsoon arrives. High humidity. Fungal disease risk rises. Reduce watering.,"Okra,Bitter Gourd,Ginger,Turmeric"
+8,August,27,35,31,82,50,Monsoon,مانسون,Peak monsoon. Waterlogging risk. Focus on drainage. Humidity-tolerant crops only.,"Okra,Ginger,Turmeric,Sweet Potato"
+9,September,26,35,30,78,18,Post-Monsoon,مانسون کے بعد,Monsoon ends. Humidity still high but decreasing. Transition to winter prep.,"Okra,Eggplant,Green Chilli,Coriander (start),Sweet Potato"
+10,October,22,34,28,68,4,Post-Monsoon,مانسون کے بعد,Great transition month. Temperature dropping. Prepare beds for winter season.,"Eggplant,Green Chilli,Spinach,Coriander,Fenugreek,Spring Onion,Turnip"
+11,November,16,30,23,62,2,Cool-Dry,سرد موسم,Excellent month. Cool season begins. Best time to start winter vegetable garden.,"Tomato,Spinach,Coriander,Peas,Radish,Fenugreek,Capsicum,Garlic,Cauliflower,Cabbage"
+12,December,13,26,20,65,4,Cool-Dry,سرد موسم,Peak cool season. Best conditions for widest variety of vegetables.,"Tomato,Spinach,Coriander,Peas,Radish,Carrot,Fenugreek,Capsicum,Garlic,Cauliflower,Turnip"

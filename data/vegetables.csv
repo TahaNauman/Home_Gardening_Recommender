@@ -1,0 +1,31 @@
+name,name_urdu,emoji,min_temp_c,max_temp_c,optimal_temp_c,min_humidity_pct,max_humidity_pct,karachi_months,sunlight,water_need,pot_friendly,rooftop_ok,days_to_harvest,difficulty,avoid_months,notes
+Tomato,ٹماٹر,🍅,18,32,25,40,75,"11,12,1,2,3",full,medium,True,True,70,easy,"5,6,7,8,9",Most popular home vegetable in Karachi. Needs staking when tall.
+Spinach,پالک,🥬,10,25,18,40,80,"10,11,12,1,2,3",partial,medium,True,True,40,easy,"5,6,7,8",Fast growing. Great for pots. Harvest outer leaves and it keeps growing.
+Coriander,دھنیا,🌿,10,28,20,40,75,"9,10,11,12,1,2,3",partial,medium,True,True,25,easy,"5,6,7,8",Bolts quickly in heat. Sow every 3 weeks for continuous harvest.
+Fenugreek,میتھی,🌱,10,28,20,40,75,"10,11,12,1,2,3",full,low,True,True,25,easy,"5,6,7,8",Leaves and seeds both usable. Very drought tolerant once established.
+Radish,مولی,🥕,10,25,18,40,75,"10,11,12,1,2",full,medium,True,True,30,easy,"5,6,7,8,9",One of the fastest crops. Good for impatient beginners.
+Carrot,گاجر,🥕,12,25,18,40,70,"10,11,12,1,2",full,medium,False,False,80,medium,"5,6,7,8,9",Needs deep loose soil. Not ideal for shallow pots. Grow in deep containers minimum 30cm.
+Okra,بھنڈی,🫑,25,42,35,40,80,"4,5,6,7,8,9",full,medium,True,True,55,easy,"12,1,2",Thrives in Karachi summers. Very heat tolerant. One of few crops for peak summer.
+Bitter Gourd,کریلا,🥒,25,40,32,50,85,"4,5,6,7,8",full,high,False,True,60,medium,"11,12,1,2",Needs trellis or support. Rooftop ideal for climbing. Not for small pots.
+Bottle Gourd,لوکی,🥒,25,40,30,50,85,"3,4,5,6,7,8",full,high,False,True,65,medium,"11,12,1",Very common in Karachi. Needs lots of space. Rooftop with trellis is perfect.
+Eggplant,بینگن,🍆,22,38,30,40,80,"3,4,5,6,7,8,9,10",full,medium,True,True,75,easy,"12,1",Long growing season. Very well suited to Karachi climate. Productive plant.
+Green Chilli,ہری مرچ,🌶️,22,38,28,40,75,"3,4,5,6,7,8,9,10",full,medium,True,True,75,easy,"12,1",Grows almost year round in Karachi. Pot friendly. Great beginner plant.
+Capsicum,شملہ مرچ,🫑,18,32,25,45,75,"10,11,12,1,2,3",full,medium,True,True,80,medium,"5,6,7,8",Needs cooler temps than chilli. Avoid peak summer. Similar care to tomato.
+Mint,پودینہ,🌿,15,35,25,50,80,"9,10,11,12,1,2,3,4",partial,high,True,True,30,easy,"6,7,8",Spreads aggressively. Keep in its own pot. Water generously.
+Garlic,لہسن,🧄,12,25,18,40,70,"10,11,12,1",full,low,True,True,150,medium,"5,6,7,8,9",Plant individual cloves. Long crop but low maintenance. Needs dry spell before harvest.
+Onion,پیاز,🧅,12,28,20,40,70,"10,11,12,1,2",full,low,False,False,120,medium,"5,6,7,8",Needs space and well-drained soil. Not great for pots. Ground or raised bed preferred.
+Peas,مٹر,🫛,10,22,16,50,80,"11,12,1,2",full,medium,True,True,65,easy,"3,4,5,6,7,8,9,10",Short cool window in Karachi. Sow November for best results. Needs support.
+Cauliflower,پھول گوبھی,🥦,12,25,18,50,80,"10,11,12,1,2",full,high,False,False,90,hard,"5,6,7,8,9",Needs consistent cool weather. Challenging in Karachi but possible Nov-Jan.
+Cabbage,بند گوبھی,🥬,10,25,18,50,80,"10,11,12,1,2",full,medium,False,False,90,medium,"5,6,7,8,9",Similar to cauliflower. Needs cool season. Ground growing preferred.
+Turnip,شلجم,🥕,10,25,15,40,75,"10,11,12,1,2",full,medium,True,False,50,easy,"5,6,7,8,9",Fast and hardy winter crop. Underrated. Leaves also edible.
+Lemon,لیموں,🍋,15,40,28,30,75,"1,2,3,4,5,6,7,8,9,10,11,12",full,medium,True,True,365,easy,"",Grows year round in Karachi. Perennial. One tree produces for decades.
+Curry Leaf,کڑی پتہ,🌿,18,40,30,40,80,"1,2,3,4,5,6,7,8,9,10,11,12",full,low,True,True,365,easy,"",Perennial tree. Very low maintenance once established. Essential in Pakistani cooking.
+Spring Onion,ہرا پیاز,🧅,12,30,22,40,75,"9,10,11,12,1,2,3",partial,medium,True,True,40,easy,"6,7,8",Great for pots. Fast growing. Harvest whole or just snip the tops.
+Cucumber,کھیرا,🥒,22,38,30,50,85,"3,4,5,6,7,8,9",full,high,False,True,55,easy,"11,12,1,2",Needs warmth and water. Rooftop with trellis works well. Not for small pots.
+Pumpkin,کدو,🎃,25,40,32,50,80,"4,5,6,7,8",full,medium,False,False,100,medium,"11,12,1,2,3",Needs a lot of ground space. Not for pots. Very heat tolerant.
+Zucchini,توری,🥒,22,38,28,45,80,"3,4,5,6,7,8,9,10",full,medium,True,True,55,easy,"12,1,2",Productive plant — one or two is enough. Harvest when small for best taste.
+Beetroot,چقندر,🟣,10,25,18,40,75,"10,11,12,1,2,3",full,medium,True,False,70,medium,"5,6,7,8,9",Needs deep container minimum 25cm. Leaves also edible like spinach.
+Ginger,ادرک,🫚,22,35,28,60,90,"4,5,6,7,8,9",partial,high,True,True,240,hard,"11,12,1,2,3",Likes humidity — monsoon season is natural fit. Needs rich moist soil.
+Turmeric,ہلدی,🟡,22,35,28,60,90,"4,5,6,7,8,9",partial,high,False,True,270,hard,"11,12,1,2,3",Similar to ginger. Long crop. Harvest when leaves yellow. Very rewarding.
+Moringa,سہانجنا,🌿,22,42,32,20,60,"1,2,3,4,5,6,7,8,9,10,11,12",full,low,False,False,365,easy,"",Miracle tree for Karachi climate. Extremely drought tolerant. Leaves highly nutritious.
+Sweet Potato,شکرقندی,🍠,22,35,28,50,80,"8,9,10,11",full,medium,False,False,120,medium,"12,1,2,3,4,5,6,7",Vines need space. Ground only. Harvest when vines start to yellow.

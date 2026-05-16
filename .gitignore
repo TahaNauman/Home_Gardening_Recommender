@@ -1,0 +1,20 @@
+# Never commit your API keys!
+.env
+
+# Python cache files (auto-generated, not needed in git)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Saved ML models (large binary files)
+src/ml/models/*.pkl
+
+# Weather cache (regenerated automatically)
+data/.weather_cache.json
+
+# macOS junk
+.DS_Store
